@@ -1,0 +1,14 @@
+# React / Vite
+Frontend/node_modules/
+Frontend/dist/
+
+# Secret credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
+
+# PHP dependencies
+Backend/vendor/
